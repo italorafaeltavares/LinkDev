@@ -1,12 +1,11 @@
 <h1>Linkdev</h1>
 
-<p>Criação de uma página de links para portfólio</p> 
-<p>Desenvolvido através da aula</p><a href="https://brenocuper.com/parabens-aula-pagina-links/"></a> 
-
+<p><strong>Criação de uma página de links para portfólio</strong></p>
+<p>Desenvolvido apartir da <a href="https://brenocuper.com/parabens-aula-pagina-links/"><em>Aula</em></a> do Brenocuper.</p>
 
 > Tecnologias utilizadas
 <p>
-<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+&emsp; <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &emsp;
 <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </p><br>
 
