@@ -9,5 +9,5 @@ metadata:
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: website
-  owner: italorafaeltavares@gmail.com
+  owner: italorafaeltavares
   lifecycle: production
