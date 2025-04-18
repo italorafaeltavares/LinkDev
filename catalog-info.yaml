@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: LinkDev
+  description: Personal website.
+  # Example for optional annotations
+  # annotations:
+  #   github.com/project-slug: backstage/backstage
+  #   backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  owner: italorafaeltavares@gmail.com
+  lifecycle: production
